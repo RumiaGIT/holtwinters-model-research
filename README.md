@@ -8,4 +8,4 @@ Personal research into the Holt Winters model for Time Series Forecasting. The N
 
 Holt Winters equations for its additive and multiplicative variations:
 
-![Holt Winters model](https://i.imgur.com/Czwn0Vc.png 'Holt Winters model')
+![Holt Winters model](https://raw.githubusercontent.com/RumiaGIT/holtwinters-model-research/master/example.png 'Holt Winters model')
